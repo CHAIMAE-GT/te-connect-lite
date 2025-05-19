@@ -35,23 +35,7 @@ ng serve
 ----
 ```
 
-│       leaves.py
-│       tasks.py
-│       users.py
-│
-├───schemas
-│       announcement.py
-│       leave.py
-│       task.py
-│       user.py
-│
-└───services
-        announcement_service.py
-        chatbot_service.py
-        leave_service.py
-        task_service.py
-        user_service.py
------
+
 
 
 
